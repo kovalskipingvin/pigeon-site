@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.image-gallery img {
+  width: 200px;
+  height: auto;
+  margin: 10px;
+}
+
